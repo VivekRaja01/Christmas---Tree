@@ -1,5 +1,5 @@
 🎄 Animated Christmas Tree – SVG & GSAP Animation
-
+ 
 🎄 Animated Christmas Tree is a visually rich and interactive Christmas-themed animation built using HTML, CSS, JavaScript, SVG, and GSAP (GreenSock Animation Platform).
 ✨ The project features a dynamically drawn Christmas tree, sparkling star animation, and festive particle effects that bring holiday vibes to life.
 
