@@ -129,7 +129,9 @@ Clean and minimal layout
 ## 📧 Contact
 
 👨‍💻 Developed by: Vivek Raja
+
 🎓 B.E. Computer Science & Engineering
+
 💼 MERN Stack Developer
 
 📮 Email: rajavivek773@gmail.com
