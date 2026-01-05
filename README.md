@@ -138,7 +138,7 @@ Clean and minimal layout
 
 🌐 GitHub: VivekRaja01
 
-💖 Support
+## 💖 Support
 
 If you like this project:
 
