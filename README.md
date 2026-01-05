@@ -1,16 +1,16 @@
-🎄 Animated Christmas Tree – SVG & GSAP Animation
+## 🎄 Animated Christmas Tree – SVG & GSAP Animation
  
 🎄 Animated Christmas Tree is a visually rich and interactive Christmas-themed animation built using HTML, CSS, JavaScript, SVG, and GSAP (GreenSock Animation Platform).
 ✨ The project features a dynamically drawn Christmas tree, sparkling star animation, and festive particle effects that bring holiday vibes to life.
 
 🎁 Designed for smooth performance and modern browsers, this animation is ideal for portfolios, festive landing pages, and creative front-end showcases.
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 This project demonstrates advanced SVG animations, motion paths, and particle systems using GSAP plugins.
 The Christmas tree is drawn progressively, followed by a glowing star animation that travels along the tree path, releasing colorful particles for a magical effect.
 
-This project is ideal for:
+## This project is ideal for:
 
 ✅ Frontend animation portfolio
 
@@ -22,7 +22,7 @@ This project is ideal for:
 
 ✅ MotionPath & Particle animation learning
 
-🌟 Key Features (Fully Implemented)
+## 🌟 Key Features (Fully Implemented)
 ✅ 1. SVG-Based Christmas Tree Drawing
 
 Tree structure drawn using SVG paths
@@ -62,7 +62,7 @@ Scales perfectly across different screen sizes
 
 SVG auto-adjusts to viewport dimensions
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Markup: HTML5
 Styling: CSS3
@@ -79,7 +79,7 @@ MorphSVGPlugin
 Physics2DPlugin
 Graphics: SVG
 
-🎬 How the Animation Works
+## 🎬 How the Animation Works
 
 SVG tree paths are converted and prepared using MorphSVGPlugin
 
@@ -93,14 +93,14 @@ Sparkles flicker with random opacity for realism
 
 Final glow and outline effects complete the animation
 
-📂 Project Structure
+## 📂 Project Structure
 📁 christmas-tree-animation
  ┣ 📄 index.html
  ┣ 📄 style.css
  ┣ 📄 script.js
  ┗ 📄 README.md
 
-🎨 UI / Visual Highlights
+## 🎨 UI / Visual Highlights
 
 Dark festive background for contrast
 
@@ -112,9 +112,9 @@ Elegant SVG-based design
 
 Clean and minimal layout
 
-🚧 Future Enhancements
+## 🚧 Future Enhancements
 
-Planned improvements:
+** Planned improvements:
 
 🎵 Add background Christmas music
 
@@ -126,7 +126,7 @@ Planned improvements:
 
 📱 Touch-optimized mobile effects
 
-📧 Contact
+## 📧 Contact
 
 👨‍💻 Developed by: Vivek Raja
 🎓 B.E. Computer Science & Engineering
